@@ -379,7 +379,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
           <li id="views_slideshow_cycle_div_1_1" class="bxslider-views-slideshow-main-frame-row">
     
   <div class="views-field views-field-nothing">        <span class="field-content"><div class="slider">
-<img typeof="foaf:Image" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/styles/slider_image/public/Local%20Potatoes%20Fud%20Truk.png?itok=byhrznWS" width="1400" height="500" alt="" />
+<img typeof="foaf:Image" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/styles/slider_image/public/Local%20Potatoes%20Fud%20Truk.png&itok=byhrznWS" width="1400" height="500" alt="" />
 <div class="slider-text"> 
 <h2>Handgrown Potatoes</h2>
 <p>Our hand cut French Fries are from fresh potatoes grown at Masser Potato Farms in Lancaster County, PA. Only 59 miles from Lehigh University!</p>
@@ -680,7 +680,7 @@ The Falafel
 </div>
 <div class="menu-image">
 <div class="views-field-field-picture-of-food">
-<a href="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/brownandwhite.png" title="" class="colorbox" data-colorbox-gallery="gallery-node-17-field_picture_of_food-MQjoKWXVOgY" data-cbox-img-attrs="{&quot;title&quot;: &quot;&quot;, &quot;alt&quot;: &quot;&quot;}"><img typeof="foaf:Image" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/styles/medium/public/brownandwhite.png?itok=IS2OkmBU" width="212" height="220" alt="" title="" /></a>
+<a href="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/brownandwhite.png" title="" class="colorbox" data-colorbox-gallery="gallery-node-17-field_picture_of_food-MQjoKWXVOgY" data-cbox-img-attrs="{&quot;title&quot;: &quot;&quot;, &quot;alt&quot;: &quot;&quot;}"><img typeof="foaf:Image" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/styles/medium/public/brownandwhite.png%itok=IS2OkmBU" width="212" height="220" alt="" title="" /></a>
 </div>
 </div>
 <div class="menu-item-desc">
@@ -826,7 +826,7 @@ Handcut Fries
 </div>
 <div class="menu-image">
 <div class="views-field-field-picture-of-food">
-<a href="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/Pepsi-Logo_0.png" title="" class="colorbox" data-colorbox-gallery="gallery-node-26-field_picture_of_food-MQjoKWXVOgY" data-cbox-img-attrs="{&quot;title&quot;: &quot;&quot;, &quot;alt&quot;: &quot;&quot;}"><img typeof="foaf:Image" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/styles/medium/public/Pepsi-Logo_0.png?itok=bJ2WI_-n" width="220" height="220" alt="" title="" /></a>
+<a href="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/Pepsi-Logo_0.png" title="" class="colorbox" data-colorbox-gallery="gallery-node-26-field_picture_of_food-MQjoKWXVOgY" data-cbox-img-attrs="{&quot;title&quot;: &quot;&quot;, &quot;alt&quot;: &quot;&quot;}"><img typeof="foaf:Image" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/styles/medium/public/Pepsi-Logo_0.png%itok=bJ2WI_-n" width="220" height="220" alt="" title="" /></a>
 </div>
 </div>
 <div class="menu-item-desc">
