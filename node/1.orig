@@ -1,0 +1,1052 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/node/1" />
+<link rel="shortlink" href="/node/1" />
+<link rel="shortcut icon" href="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/favicon.ico" type="image/vnd.microsoft.icon" />
+  <title>Home | Fudtruk</title>
+  <link type="text/css" rel="stylesheet" href="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/css/css_vZ_wrMQ9Og-YPPxa1q4us3N7DsZMJa-14jShHgRoRNo.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/css/css_TsVRTbLFUpEZAfw-_bWPJu840QT523CPjUVJ5MRWfyk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/css/css_7fwZRf83l3wJZmZ_PeDB8kXFIaAtmABfW4rvwlUwZos.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+#views-slideshow-bxslider-1.views-slideshow-bxslider .bx-wrapper .bx-controls-direction a{z-index:499;}
+#views-slideshow-bxslider-1.views-slideshow-bxslider li img{margin-right:auto;}
+#views-slideshow-bxslider-1.views-slideshow-bxslider .bx-wrapper .bx-caption{background:rgba(80,80,80,0.75)}
+#views-slideshow-bxslider-2.views-slideshow-bxslider .bx-wrapper .bx-controls-direction a{z-index:499;}
+#views-slideshow-bxslider-2.views-slideshow-bxslider li img{margin-right:auto;}
+#views-slideshow-bxslider-2.views-slideshow-bxslider .bx-wrapper .bx-caption{background:rgba(80,80,80,0.75)}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/css/css_gLCg6Jva5rHHRKmc8WJeZy_D7b2n0wtn94g76kTP3eQ.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/css/css_HQs9erYLSpF4UbmIRfWoMk1hQ4REn02FnHJ39V4iNWA.css" media="all" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/css/css_sIsRwCKuAMZS6YJIMFqPXNCtZHxV56wN2ePifCvkLYc.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/css/css_y0b0TScNSYfaWTDWn7HAEG2AOjoALH3DpPpmAaKWtc8.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/js/js_aX7yRJ6konHrJvWI9p8DYMZjzXuDWoFTSzXiLL4uZWU.js"></script>
+<script type="text/javascript" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/js/js_gwRM9sfRyUAEDReDktO12e1f87v67oAphcpHQXwRWjc.js"></script>
+<script type="text/javascript" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/js/js_ipuzB8tLayEMV3H3IIQtbN8dotXiZPUL4lWuJ27IyyQ.js"></script>
+<script type="text/javascript" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/js/js_wciP3XdVO2N3rrm2L4TvsX7-xY_r3PVOfK0dtGf4WgQ.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"fudtruk2017","theme_token":"DBQdZv2rxpDnHYuAPCOtmv2Fl4MpFneF59idYrij_0E","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/views_slideshow\/js\/views_slideshow.js":1,"sites\/all\/libraries\/bxslider\/jquery.bxslider.min.js":1,"sites\/fudtruk.lehigh.edu\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/bxslider_views_slideshow\/bxslider_views_slideshow.js":1,"misc\/textarea.js":1,"sites\/all\/modules\/webform\/js\/webform.js":1,"sites\/fudtruk.lehigh.edu\/themes\/fudtruk2017\/js\/custom.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/views_slideshow\/views_slideshow.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/fudtruk.lehigh.edu\/libraries\/colorbox\/example4\/colorbox.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"0":1,"1":1,"2":1,"3":1,"4":1,"5":1,"sites\/all\/libraries\/bxslider\/jquery.bxslider.css":1,"sites\/all\/modules\/webform\/css\/webform.css":1,"sites\/all\/libraries\/fontawesome\/css\/font-awesome.css":1,"sites\/fudtruk.lehigh.edu\/themes\/fudtruk2017\/css\/styles.css":1,"sites\/fudtruk.lehigh.edu\/themes\/fudtruk2017\/css\/ie7.css":1,"sites\/fudtruk.lehigh.edu\/themes\/fudtruk2017\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"viewsSlideshow":{"slider-block":{"methods":{"goToSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","bxsliderViewsSlideshow"],"nextSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","bxsliderViewsSlideshow"],"pause":["viewsSlideshowControls"],"play":["viewsSlideshowControls"],"previousSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","bxsliderViewsSlideshow"],"transitionBegin":["viewsSlideshowPager","viewsSlideshowSlideCounter"],"transitionEnd":[]},"paused":0},"testimonials-block":{"methods":{"goToSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","bxsliderViewsSlideshow"],"nextSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","bxsliderViewsSlideshow"],"pause":["viewsSlideshowControls"],"play":["viewsSlideshowControls"],"previousSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","bxsliderViewsSlideshow"],"transitionBegin":["viewsSlideshowPager","viewsSlideshowSlideCounter"],"transitionEnd":[]},"paused":0}},"viewsSlideshowBxslider":{"views_slideshow_bxslider_images_1":{"general":{"mode":"fade","speed":500,"slideMargin":0,"startSlide":0,"randomStart":0,"infiniteLoop":1,"hideControlOnEnd":0,"captions":0,"ticker":0,"tickerHover":0,"adaptiveHeight":0,"adaptiveHeightSpeed":500,"video":0,"touchEnabled":1,"preloadImages":"all","disable_standard_css":0,"useCSS":1,"align_image":"left","align_caption":"left","swipeThreshold":50,"oneToOneTouch":1,"preventDefaultSwipeX":1,"preventDefaultSwipeY":0,"color_caption":"80, 80, 80, 0.75"},"controlsfieldset":{"controls":0,"nextText":"","prevText":"","startText":"","stopText":"","autoControls":0,"autoControlsCombine":0},"pagerfieldset":{"pager":1,"pagerType":"full","pagerShortSeparator":" \/ "},"autofieldset":{"pause":4000,"autoStart":1,"auto":1,"autoHover":0,"autoDelay":0,"autoDirection":"next"},"carousel":{"minSlides":1,"maxSlides":1,"moveSlides":0,"slideWidth":0},"callback":[],"fixes":{"height_does_not_dyn_change":0}},"views_slideshow_bxslider_images_2":{"general":{"mode":"fade","speed":500,"slideMargin":0,"startSlide":0,"randomStart":0,"infiniteLoop":1,"hideControlOnEnd":0,"captions":0,"ticker":0,"tickerHover":0,"adaptiveHeight":0,"adaptiveHeightSpeed":500,"video":0,"touchEnabled":1,"preloadImages":"all","disable_standard_css":0,"useCSS":1,"align_image":"left","align_caption":"left","swipeThreshold":50,"oneToOneTouch":1,"preventDefaultSwipeX":1,"preventDefaultSwipeY":0,"color_caption":"80, 80, 80, 0.75"},"controlsfieldset":{"controls":1,"nextText":"","prevText":"","startText":"","stopText":"","autoControls":0,"autoControlsCombine":0},"pagerfieldset":{"pager":0,"pagerType":"full","pagerShortSeparator":" \/ "},"autofieldset":{"pause":4000,"autoStart":1,"auto":1,"autoHover":0,"autoDelay":0,"autoDirection":"next"},"carousel":{"minSlides":1,"maxSlides":1,"moveSlides":0,"slideWidth":0},"callback":[]}},"urlIsAjaxTrusted":{"\/node\/1":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html front not-logged-in no-sidebars page-node page-node- page-node-1 node-type-frontpage" >
+  <div id="emergencyalert"><div id="AppArmorAlertID_2"></div><script type="text/javascript" src="//lehigh.apparmor.com/Notifications/Feeds/Javascript/?AlertID=2" async></script></div>
+  <div id="skip-link">
+    <a href="#main-menu" class="element-invisible element-focusable">Jump to Navigation</a>
+  </div>
+    <head>
+  <link href="https://fonts.googleapis.com/css?family=Londrina+Outline|Londrina+Solid" rel="stylesheet">
+  <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,700' rel='stylesheet' type='text/css'>
+  <meta name="viewport" content="width=device-width" />
+</head>
+
+<div id="page-wrapper">
+  <div id="page">
+  <div id="logo">
+      <a href="https://fudtruk.lehigh.edu/#page">
+        <svg class="fudtruk-logo" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+             viewBox="0 0 345 252" style="enable-background:new 0 0 345 252;" xml:space="preserve">
+          <style type="text/css">
+            .st0{fill:#FAAF40;}
+            .st1{fill:#EA6125;}
+            .st2{fill:#C1B49A;}
+          </style>
+          <g>
+            <path class="st0" d="M122.2,31c-0.2-0.4-2.7-10.7-2.7-10.7l13.1-1.5l0.3,11L122.2,31z"/>
+            <path class="st0" d="M151.4,27.2c-0.2-0.4-2.7-10.7-2.7-10.7l13.1-1.5l0.3,11L151.4,27.2z"/>
+            <g>
+              <polygon class="st1" points="114.3,45.6 74.8,50.4 84.1,127.1 98.6,125.5 93.8,89.5 105.6,88 103.4,74.8 92.5,75.8 90.5,61.7 
+                115.8,58.3    "/>
+              <path class="st1" d="M174,88.2c-0.6-4.7-1.7-12.4-3.5-22.8c-1.7-9.8-2.8-17.6-3.5-23.2l-0.1-0.5l-0.3-0.4c-0.3-0.4-0.9-1-2-1.1
+                l-0.2,0l-0.2,0c-2.6,0.3-6.3,0.8-11,1.7l-1.9,0.4l0.1,1.9c0.2,3.5,0.5,7.3,1,11.3c0.5,4.2,1.5,10.8,2.8,19.6
+                c1.4,8.8,2.3,15.4,2.9,19.9c0.6,4.8,0.7,6.3,0.7,6.8c-0.1,0.1-0.2,0.3-0.5,0.6c-0.3,0.3-0.5,0.6-0.7,0.8c-1.7,0-3.8,0.2-6.5,0.5
+                c-3.4,0.4-5.3,0.6-6.4,0.7c-0.3-0.2-0.6-0.5-0.9-0.7c-0.9-6.4-2-16.2-3.4-28.8c-0.4-6.1-1.8-16.3-4-30.2l-0.3-2.1l-2.1,0.3
+                c-2.5,0.3-6.2,1-11,2l-1.9,0.4l0.2,1.9c0.2,2.3,0.5,4.9,0.8,7.6c0.6,5,1.8,13.5,3.6,25.4c1.7,10.8,2.9,19.3,3.5,25.3
+                c0.3,2.7,0.4,3.2,0.4,3.3l0.1,0.7c0,0.1,0,0.1,0.1,0.2l1.4,1.5c0.5,0.4,1.3,0.9,2.4,1.6c1.3,0.9,3.4,2.2,6.2,4
+                c0.8,0.6,1.9,1.3,3.3,2.1l0.6,0.3l0.7-0.1c0.1,0,0.7,0,3.9-0.2c1.3,0,2.7-0.1,4.3-0.2c1.5-0.1,3-0.2,4.5-0.3
+                c2.1-0.1,3.6-0.3,4.8-0.8c0.9-0.3,1.7-0.9,2.7-2l0.1-0.2c0.4-0.6,0.9-1.3,1.4-1.9c3.2-3.9,6.1-7.7,8.6-11.1l0.5-0.6l0-0.8
+                C174.9,97.1,174.5,92.7,174,88.2z"/>
+              <path class="st1" d="M239.2,91.5l-4.8-37.9c0-0.3-0.2-0.7-0.6-1.4c-0.3-0.4-0.5-1-0.9-1.6c-0.3-0.6-0.7-1.2-1-1.8
+                c-0.3-0.7-0.7-1.2-1-1.6c-0.4-0.7-1.1-1.6-1.9-2.7c-0.9-1.1-1.8-2.3-2.7-3.4l-2.5-3c-1-1.2-1.4-1.6-1.5-1.8l-0.1-0.1
+                c-0.2-0.2-0.6-0.4-1.2-0.8c-0.5-0.3-1.1-0.6-1.6-0.9c-0.6-0.3-1.2-0.5-1.8-0.7c-0.8-0.2-1.2-0.3-1.6-0.3l-39,5l9.7,75.9l39-5
+                c0.4,0,0.7-0.2,1.4-0.7c0.4-0.3,0.9-0.7,1.4-1.1c0.5-0.4,1-0.8,1.4-1.2c0.5-0.4,0.8-0.8,1.1-1.2c0.6-0.9,1.4-2,2.4-3.4
+                c1-1.4,1.9-2.9,2.7-4.2c0.8-1.4,1.5-2.6,2.1-3.6C239.2,92.5,239.3,92.1,239.2,91.5z M221.4,91.8c-1.5,1.2-3.2,2.3-5.2,3.1
+                c-2,0.9-4,1.6-6.1,2.1c-2.1,0.5-4.3,0.9-6.3,1.3c-1.5,0.2-3,0.5-4.3,0.7L193,48.5l19-1.8c0.1,0.1,0.4,0.3,0.7,0.5
+                c0.8,0.6,1.6,1.3,2.5,2c0.9,0.8,1.9,1.5,2.8,2.3c1.1,0.9,1.6,1.4,1.8,1.6c0.1,0.2,0.4,0.5,0.7,1.1c0.3,0.6,0.7,1.2,1,1.8
+                c0.3,0.6,0.6,1.1,0.9,1.6c0.2,0.3,0.2,0.5,0.3,0.5c0,0.2,0.1,0.7,0.2,1.4c0.1,1,0.3,2.1,0.5,3.3c0.2,1.2,0.4,2.5,0.6,3.7
+                c0.2,1.3,0.3,2.3,0.4,3c0.1,0.4,0.1,1.2,0.2,2.3c0.1,1.1,0.2,2.3,0.4,3.6c0.1,1.2,0.3,2.4,0.4,3.5c0.1,1.2,0.2,1.9,0.2,2.3
+                c0.2,2.4-0.1,4.5-0.8,6.1C224,89.2,222.9,90.6,221.4,91.8z"/>
+            </g>
+            <g>
+              <path class="st0" d="M118.3,139.6l-0.3-1.1l-1.1,0.1c-13.5,1.4-23.3,2.5-29.9,3.2l-1.2,0.1l0,1.2c0,2.1,0.2,4.2,0.5,6.2l0.2,1.3
+                l1.3-0.1c4.4-0.4,8-0.8,10.8-1.1c0.5,4.4,1.1,11.8,2.1,22.6c0.9,10.1,1.7,18.2,2.4,24l0.2,1.3l1.3-0.1c2.8-0.2,5.2-0.6,7-1
+                l1.2-0.3l-0.1-1.2c-0.3-4.1-0.8-8.6-1.3-13.6c-0.3-3-1-8.3-2-16.6c-0.8-6.3-1.4-11.5-1.8-15.4c1.1-0.2,2.6-0.5,4.6-0.8
+                c2.6-0.4,4.6-0.8,5.9-1.3l0.9-0.3l0-1C118.8,142.7,118.6,140.7,118.3,139.6z"/>
+              <path class="st0" d="M161,182.7l-3.9-5.5c-2.6-3.7-4.6-6.6-6.1-8.8c1.6-0.3,3-0.5,4-0.7l0.5-0.1l0.3-0.4c1.9-2.7,3.3-4.8,4.2-6.4
+                c0.1-0.2,0.4-0.5,0.8-0.9c0.5-0.5,0.8-1.1,0.9-1.5l0-0.2l0-0.2c-0.1-1.3-0.2-2.3-0.4-3.1c-0.4-4.4-0.7-7.3-0.8-9.2l-1.3-4.7
+                c-2.2-1.9-4-3.3-5.2-4.2c-0.3-0.3-0.7-0.6-1-1c-0.6-0.5-1-0.8-1.6-0.9l-1.8,0.2c-0.2,0-0.4,0.1-0.7,0.1c-4.5,0.6-8,1-10.4,1.3
+                c-6,1-10.1,1.6-12.2,1.7l-1.5,0.1l0.1,1.5c0.7,6.7,2.8,24.4,6.2,52.4l0.1,1.2l1.2,0c0.2,0,0.3,0,0.5,0c2.3,0,4.1-0.1,5.6-0.4
+                l1.3-0.2l-0.1-1.3c-0.2-2.2-0.8-6-1.7-11.2c-0.7-4.1-1.2-7.5-1.5-10c1.3-0.2,2.5-0.3,3.4-0.4c6.4,9.1,11.3,16.1,14.5,20.6l0.4,0.6
+                l0.7,0c6.3-0.3,7.8-0.5,8.4-0.6l2.1-0.3l-1.1-1.8C163.4,185.8,162.1,183.9,161,182.7z M147.7,144.1L147.7,144.1
+                c0.1,0,0.3,0.1,0.8,0.6c0.5,0.5,0.9,0.8,1.3,1.1c0.6,5.5,1.1,9.9,1.5,13.1c-0.6,0.7-0.9,1.1-1.1,1.3c-0.9,0.1-2.8,0.3-5.8,0.6
+                l-0.3,0c-0.4,0-0.9,0.1-1.4,0.1c-2.7,0.3-5,0.5-6.7,0.6c-0.6-4.3-1.1-9.6-1.5-15.7c1.5-0.2,3.9-0.5,7-0.9c3.2-0.4,4.3-0.6,4.8-0.8
+                C146.9,144.2,147.3,144.1,147.7,144.1L147.7,144.1z"/>
+              <path class="st0" d="M204.1,166.5c-0.4-3.6-1.2-9.3-2.4-17.1c-1.2-7.4-2-13.2-2.4-17.4l0-0.3l-0.2-0.3c-0.2-0.3-0.6-0.7-1.3-0.7
+                l-0.2,0l-0.2,0c-2,0.2-4.7,0.6-8.2,1.2l-1.2,0.2l0.1,1.2c0.1,2.6,0.4,5.4,0.7,8.4c0.4,3.2,1,8.1,2,14.7c0.9,6.6,1.6,11.6,2,14.9
+                c0.4,3.8,0.4,4.8,0.4,5.2c0,0.1-0.1,0.3-0.4,0.6c-0.3,0.3-0.5,0.5-0.6,0.7c-1.3,0-2.9,0.1-4.9,0.3c-2.7,0.3-4.1,0.4-4.9,0.5
+                c-0.2-0.2-0.5-0.4-0.8-0.7c-0.6-4.8-1.4-12.1-2.3-21.7c-0.3-4.6-1.2-12.2-2.7-22.6l-0.2-1.3l-1.3,0.1c-1.9,0.2-4.6,0.7-8.2,1.4
+                l-1.2,0.2l0.1,1.2c0.2,1.8,0.3,3.7,0.6,5.7c0.4,3.7,1.3,10.1,2.5,19c1.2,8.1,2,14.5,2.4,19c0.2,2,0.2,2.4,0.2,2.5l0,0.4
+                c0,0.1,0,0.1,0.1,0.2l0.8,1c0.4,0.3,1,0.7,1.8,1.3c1,0.7,2.5,1.7,4.6,3c0.6,0.5,1.4,1,2.4,1.6l0.4,0.2l0.4,0c0.1,0,0.6,0,3-0.1
+                c1,0,2-0.1,3.2-0.1c1.2-0.1,2.3-0.1,3.4-0.2c1.5,0,2.7-0.2,3.5-0.5c0.6-0.2,1.2-0.6,1.9-1.4l0.1-0.1c0.3-0.5,0.7-0.9,1.1-1.4
+                c2.4-2.9,4.6-5.7,6.5-8.2l0.3-0.4l0-0.5C204.7,173.1,204.4,169.9,204.1,166.5z"/>
+              <path class="st0" d="M246.9,180.4c-0.6-6.2-1.1-11-1.6-14.1c0-0.8,0-1.6-0.1-2.3c0-1.2-0.2-2.1-0.5-2.8l-0.1-0.2l-0.2-0.2
+                c-0.9-0.9-1.8-1.5-2.5-1.9l-4.8-3.4c-0.7-0.5-1.1-0.8-1.4-1c0.2-0.3,0.6-0.9,1.1-1.6c1.7-2.4,2.9-4.1,3.5-4.9
+                c2-2.4,2.1-2.7,2.2-3.2c0.1-0.7,0-1.5-0.3-2.7c-0.2-0.7-0.4-1.4-0.5-2.1c-1.2-6.4-2-10.9-2.5-13.4l-0.2-1.1l-1.1,0
+                c-1,0-2.4,0.1-4.4,0.4c-1.8,0.3-3.1,0.4-3.8,0.4l-0.4,0l-0.3,0.2c-0.4,0.3-0.7,0.6-0.8,1l-0.1,0.3l0.1,0.4
+                c0.2,1.2,0.4,2.7,0.7,4.5c0.6,4,1.1,6.9,1.5,8.8c0.4,2.5,0.6,3.5,0.6,4c-0.3,0.5-0.6,0.8-0.8,1.1c-0.7,0.8-1.1,1.3-1.4,1.6
+                c-1.5,1.8-2.1,2.4-2.4,2.5c-0.5,0.1-1,0.1-1.3,0.1l-0.3,0c-0.4,0.1-1.6,0.2-4.3,0.5c-0.4-3.2-1.3-10.6-2.8-22.2l-0.2-1.3l-1.3,0.1
+                c-3,0.3-5.1,0.5-6.4,0.7l0,0l-2.8,0.3l0.1,1.4c0,0.2,0,0.3,0.1,0.5c0.6,6.9,1.5,15.8,2.8,26.3c1.1,8.8,2.2,17.5,3.2,26.3l0.2,1.3
+                l1.3-0.1c3.7-0.3,6.2-0.8,7.8-1.3l1-0.4l-0.1-1.1c-1-10.1-1.7-17.1-2.2-21c4.2-0.4,6-0.5,6.7-0.6c1.3,0.9,2.3,1.5,3.1,2l1.8,1
+                c0.5,0.3,0.7,0.5,0.9,0.6c0.3,1.7,0.5,3.1,0.5,4.1l0,0.2c0.1,0.9,0.4,3.2,0.9,7c0.3,2.8,0.7,5,1.1,6.6l0.3,1.2l1.2-0.1
+                c3.9-0.3,6.6-0.6,8.2-0.9l1.2-0.2L246.9,180.4z"/>
+            </g>
+            <polygon class="st0" points="28,206.3 12.3,57.3 64.9,51.5 65.6,57.7 19.1,62.8 33.5,199.4 90.8,193 91.5,199.2  "/>
+            <polygon class="st0" points="257.9,180.5 257.3,174.3 327.1,167.5 324.1,103.9 280.1,84.9 272.7,32.6 235.7,37.2 230.9,31.5 
+              278.1,25.7 285.8,80.5 330.1,99.7 333.6,173.2  "/>
+            <path class="st2" d="M102.3,238c-16.4,0-30.9-11.5-32.5-26.5l8.3-0.9c1.3,11.7,13.7,20.4,27.2,18.9c6.7-0.7,12.8-3.8,17.2-8.7
+              c4.1-4.6,6.2-10.3,5.6-15.7l8.3-0.9c0.9,7.8-1.9,15.9-7.7,22.3c-5.8,6.4-13.7,10.5-22.5,11.4C104.9,238,103.6,238,102.3,238z"/>
+            <path class="st2" d="M257.3,221.3c-7.5,0-14.7-2.5-20.8-7.1c-6.9-5.3-11.3-12.8-12.2-20.6l8.3-0.9c0.6,5.6,3.9,11,8.9,14.9
+              c5.3,4.1,11.9,5.9,18.6,5.2c13.4-1.5,24.3-13.7,23-25.7l8.3-0.9c1.8,16.6-12.4,32.9-30.4,34.9C259.8,221.2,258.6,221.3,257.3,221.3
+              z"/>
+          </g>
+          </svg>
+        </a>
+              </div><!-- /#logo -->  
+  <header id="header">
+      <div class="m">
+          <div class="hamburger">
+            <div class="lines">
+              <span></span>
+              <span></span>
+              <span></span>
+            </div>
+          </div>
+      </div>
+      <div id="lehigh-logo">
+        <a href="http://www.lehigh.edu" target="_blank">
+        <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+   viewBox="0 0 223.7 59.7" style="enable-background:new 0 0 223.7 59.7;" xml:space="preserve">
+<style type="text/css">
+  .st0{fill:#683817;}
+</style>
+<path class="st0" d="M10.4,45.8v0.5l0.7,0c0.4,0,0.6,0.1,0.7,0.2c0.1,0.2,0.1,0.6,0.1,1.2v5.1c0,2.7-1.6,3.3-3.3,3.3
+  c-2.1,0-3.3-0.7-3.3-2.9v-5.5c0-0.6,0-1,0.1-1.2c0.1-0.2,0.3-0.2,0.7-0.2l0.8,0v-0.5c-0.8,0-1.6,0-2.3,0c-0.8,0-1.5,0-2.4,0v0.5
+  l0.8,0c0.4,0,0.6,0.1,0.7,0.2c0.1,0.2,0.1,0.6,0.1,1.2v5.7c0,2.9,1.6,3.7,4.3,3.7c3.2,0,4.5-1.4,4.5-4.8v-4.6c0-0.6,0-1,0.1-1.2
+  c0.1-0.2,0.3-0.2,0.7-0.2l0.7,0v-0.5c-0.7,0-1.3,0-1.9,0C11.7,45.9,11,45.8,10.4,45.8"/>
+<path class="st0" d="M37.2,45.8v0.5l0.7,0c0.4,0,0.6,0.1,0.7,0.2c0.1,0.2,0.1,0.6,0.1,1.2v7.5h0L31,45.8c-0.3,0-0.6,0-0.9,0
+  c-0.6,0-1.2,0-1.9,0v0.5l0.7,0c0.4,0,0.6,0.1,0.7,0.2c0.1,0.2,0.1,0.6,0.1,1.2V55c0,0.6,0,1-0.1,1.2c-0.1,0.2-0.3,0.2-0.7,0.2
+  l-0.7,0V57c0.6,0,1.3,0,1.9,0c0.6,0,1.2,0,1.9,0v-0.5l-0.7,0c-0.4,0-0.6-0.1-0.7-0.2c-0.1-0.2-0.1-0.6-0.1-1.2v-7.4h0L38,57l1.4,0.3
+  c0-0.2,0-0.4,0-0.6v-8.8c0-0.6,0-1,0.1-1.2c0.1-0.2,0.3-0.2,0.7-0.2l0.7,0v-0.5c-0.7,0-1.3,0-1.9,0C38.5,45.9,37.8,45.8,37.2,45.8"
+  />
+<path class="st0" d="M55.1,45.8v0.5l0.8,0c0.4,0,0.6,0.1,0.7,0.2c0.1,0.2,0.1,0.6,0.1,1.2V55c0,0.6,0,1-0.1,1.2
+  c-0.1,0.2-0.3,0.2-0.7,0.2l-0.8,0V57c0.8,0,1.6,0,2.4,0c0.7,0,1.5,0,2.3,0v-0.5l-0.8,0c-0.4,0-0.6-0.1-0.7-0.2
+  c-0.1-0.2-0.1-0.6-0.1-1.2v-7.2c0-0.6,0-1,0.1-1.2c0.1-0.2,0.3-0.2,0.7-0.2l0.8,0v-0.5c-0.8,0-1.6,0-2.3,0
+  C56.7,45.9,55.9,45.9,55.1,45.8"/>
+<path class="st0" d="M81.4,45.8v0.5l0.8,0c0.3,0,0.6,0.1,0.6,0.5c0,0.1,0,0.3-0.1,0.6L79.8,55l-3.1-8.1c0-0.1,0-0.1,0-0.2
+  c0-0.2,0.3-0.3,0.5-0.3l0.9,0v-0.5c-0.7,0-1.4,0-2.1,0s-1.4,0-2.1,0v0.5l0.6,0c0.3,0,0.5,0.1,0.7,0.7l3,7.4c0.3,0.8,0.7,1.7,0.9,2.6
+  h0.8c0.3-1,0.6-1.9,1-2.8l2.8-6.7c0.3-0.8,0.5-1.1,0.9-1.2l0.5,0v-0.5c-0.6,0-1.1,0-1.7,0C82.6,45.9,82,45.8,81.4,45.8"/>
+<path class="st0" d="M106.6,56.1c-0.3,0.2-1.9,0.2-3.2,0.2c-0.4,0-0.9,0-1.3-0.1v-4.5c0.5,0,1.1,0,1.9,0c1,0,1.5,0.1,1.7,0.2
+  c0.1,0,0.1,0.2,0.1,0.4l0.1,0.9h0.5c0-0.6,0-1.2,0-1.8c0-0.6,0-1.2,0-1.9h-0.5l-0.1,0.8c0,0.2,0,0.4-0.1,0.4
+  c-0.2,0.1-0.7,0.2-1.7,0.2c-0.8,0-1.3,0-1.9,0v-4.3c0.4-0.1,0.9-0.1,1.3-0.1c1,0,2.3,0,3.1,0.3c0.1,0,0.1,0.2,0.1,0.4v1h0.6
+  c0-0.8,0.1-1.7,0.3-2.4c-0.6,0-1.3,0-2.1,0c-0.9,0-2.4,0-3.8,0c-0.4,0-0.9,0-1.4,0c-0.4,0-0.9,0-1.3,0v0.5l0.8,0
+  c0.4,0,0.6,0.1,0.7,0.2c0.1,0.2,0.1,0.6,0.1,1.2V55c0,0.6,0,1-0.1,1.2c-0.1,0.2-0.3,0.2-0.7,0.2l-0.6,0V57c0.6,0,1.1,0,1.7,0
+  c1,0,2.3,0,3.5,0h0.5c1,0,2,0,2.7,0c0-0.9,0.1-1.9,0.3-2.6h-0.6C107.1,55.2,106.9,55.9,106.6,56.1"/>
+<path class="st0" d="M128,51.3c1.5-0.3,3.1-1.3,3.1-3.1c0-1.1-0.6-2.4-3.1-2.4h-0.1c-0.9,0-1.9,0-2.8,0c-0.9,0-1.9,0-2.7,0v0.5
+  l0.7,0c0.4,0,0.6,0.1,0.7,0.2c0.1,0.2,0.1,0.6,0.1,1.2V55c0,0.6,0,1-0.1,1.2c-0.1,0.2-0.3,0.2-0.7,0.2l-0.8,0v0.5c0.8,0,1.6,0,2.4,0
+  c0.7,0,1.5,0,2.3,0v-0.5l-0.8,0c-0.4,0-0.6-0.1-0.7-0.2c-0.1-0.2-0.1-0.6-0.1-1.2v-8.3c0.4-0.1,0.9-0.2,1.6-0.2
+  c1.2,0,2.5,0.5,2.5,2.2c0,1.2-1,2-2.1,2.2c-0.3,0-0.7,0.1-1,0.1c-0.2,0-0.3,0-0.4,0l-0.1,0.2c0.3,0.3,0.6,0.6,0.8,1l2.9,3.9
+  c0.2,0.3,0.4,0.6,0.7,0.9c0.4,0,0.7,0,1.1,0c0.4,0,0.7,0,1.2,0v-0.5c-0.4,0-0.7-0.1-1-0.4L128,51.3z"/>
+<path class="st0" d="M150.4,50.6c-2-0.2-2.6-0.9-2.6-2c0-1.6,1.2-2.3,2.4-2.3c0.6,0,1.3,0.1,1.7,0.4c0.6,0.4,0.7,0.5,0.7,1l0.1,0.9
+  h0.5c0-0.8,0.1-1.4,0.2-2.3c-0.7-0.3-1.6-0.7-2.9-0.7c-1.9,0-4.1,1.1-4.1,3.6c0,1.7,1,2.4,3.5,2.7c1.6,0.2,2.8,0.6,2.8,2.1
+  c0,1.6-1.4,2.5-2.9,2.5c-1.3,0-2.5-0.6-2.6-1.3l-0.1-1.1h-0.5v0.6c0,0.6,0,1.2-0.1,1.8c0.5,0.3,1.6,0.6,2.7,0.6c2.4,0,4.8-1.3,4.8-4
+  C154.1,51.4,152.7,50.8,150.4,50.6"/>
+<path class="st0" d="M168.3,45.8v0.5l0.8,0c0.4,0,0.6,0.1,0.7,0.2c0.1,0.2,0.1,0.6,0.1,1.2V55c0,0.6,0,1-0.1,1.2
+  c-0.1,0.2-0.3,0.2-0.7,0.2l-0.8,0V57c0.8,0,1.6,0,2.4,0c0.7,0,1.5,0,2.3,0v-0.5l-0.8,0c-0.4,0-0.6-0.1-0.7-0.2
+  c-0.1-0.2-0.1-0.6-0.1-1.2v-7.2c0-0.6,0-1,0.1-1.2c0.1-0.2,0.3-0.2,0.7-0.2l0.8,0v-0.5c-0.8,0-1.6,0-2.3,0
+  C169.8,45.9,169.1,45.9,168.3,45.8"/>
+<path class="st0" d="M192.8,45.9h-2.3c-1.2,0-2.3,0-3.5,0c0.1,0.8,0.1,1.7,0.1,2.6h0.5l0.1-1.3c0-0.4,0.2-0.5,0.6-0.5h2.5
+  c0,0.5,0.1,1,0.1,1.6V55c0,0.6,0,1-0.1,1.2c-0.1,0.2-0.3,0.2-0.7,0.2l-0.8,0v0.5c0.8,0,1.6,0,2.4,0c0.7,0,1.5,0,2.3,0v-0.5l-0.8,0
+  c-0.4,0-0.6-0.1-0.7-0.2c-0.1-0.2-0.1-0.6-0.1-1.2v-6.8c0-0.6,0-1.1,0.1-1.6h2.5c0.5,0,0.6,0.1,0.6,0.5l0.1,1.3h0.5
+  c0-0.9,0-1.7,0.1-2.6c-0.6,0-1.1,0-1.7,0C194,45.9,193.4,45.9,192.8,45.9"/>
+<path class="st0" d="M217.5,48.8l-1.6,2.6l-2.3-4.2c-0.2-0.4-0.4-0.7-0.7-1c-0.3-0.3-0.5-0.6-0.8-0.6c0,0,0,0-0.1,0l-1.8,0.4v0.5
+  l0.5,0c0.4,0,1.2,0.6,2,2.1l2,3.5c0.1,0.2,0.1,0.4,0.1,0.6V55c0,0.6,0,1-0.1,1.2c-0.1,0.2-0.3,0.2-0.7,0.2l-0.8,0V57
+  c0.8,0,1.6,0,2.4,0c0.7,0,1.5,0,2.3,0v-0.5l-0.8,0c-0.4,0-0.6-0.1-0.7-0.2c-0.1-0.2-0.1-0.6-0.1-1.2v-2.1c0-0.4,0-0.8,0.2-1.2
+  c0.7-1.4,2.6-4.1,3.9-5.7v-0.2h-1.3C218.7,46.8,218.2,47.8,217.5,48.8"/>
+<path class="st0" d="M32.1,29.4h-1.8l-0.7,2.7c-0.3,1.1-0.6,3-1.1,3.5c-0.9,0.9-7.6,1-12.1,1c-1.5,0-3.1-0.1-4.6-0.4V7.7
+  c0-2.1,0.1-3.5,0.5-4.1c0.3-0.5,1-0.8,2.3-0.8l2.6-0.2V0.9C14.4,1,11.9,1.1,9.3,1.1C6.6,1.1,4.1,1,1.2,0.9v1.6l2.6,0.2
+  c1.3,0.1,2,0.3,2.3,0.8c0.4,0.6,0.5,2,0.5,4.1v26c0,1.5-0.4,2.7-1.4,3.2l-1.7,0.9V39c1.4-0.1,2.8-0.2,4.7-0.2c3.4,0,7,0.1,11.9,0.2
+  h1.7c3.5,0,7-0.1,9.1-0.2C31.4,36.1,31.8,32.4,32.1,29.4"/>
+<path class="st0" d="M60.9,36c-1,0.5-6.6,0.7-11.1,0.7c-1.5,0-3.1-0.1-4.6-0.4V20.9c1.7-0.2,3.7-0.2,6.4-0.2c3.3,0,5.2,0.2,5.8,0.7
+  c0.3,0.2,0.4,0.7,0.4,1.4l0.3,3.2h1.6c-0.1-2-0.2-4.1-0.2-6.1s0.1-4.1,0.2-6.4h-1.6l-0.3,2.8c-0.1,0.7-0.2,1.2-0.4,1.4
+  c-0.6,0.4-2.5,0.6-5.8,0.6c-2.6,0-4.6-0.1-6.4-0.2V3.7c1.5-0.4,3.1-0.4,4.6-0.4c3.5,0,7.8,0.1,10.7,1.1c0.4,0.2,0.5,0.8,0.5,1.5v3.6
+  H63c0-2.8,0.3-5.9,0.9-8.3c-2.1-0.1-4.6-0.2-7.1-0.2c-3.1,0-8.2,0.2-12.9,0.2c-1.5,0-3.1-0.1-4.7-0.1c-1.5-0.1-3.1-0.1-4.6-0.1v1.6
+  l2.6,0.2c1.3,0.1,2,0.3,2.3,0.8c0.4,0.6,0.5,2,0.5,4.1v24.6c0,2.1-0.1,3.5-0.5,4.1c-0.3,0.5-1,0.7-2.3,0.8l-2,0.2V39
+  c2-0.1,3.8-0.2,5.9-0.2c3.4,0,7.7,0.1,11.9,0.2h1.7c3.5,0,7-0.1,9.1-0.2c0-3,0.3-6.4,0.9-9h-1.9C62.4,33.1,61.7,35.5,60.9,36"/>
+<path class="st0" d="M95.9,0.9v1.6l2.6,0.2c1.3,0.1,2,0.3,2.3,0.8c0.4,0.6,0.5,2,0.5,4.1v9.7c-0.7,0.1-2.1,0.1-4.5,0.1H83.9
+  c-2.4,0-3.9-0.1-4.5-0.1V7.7c0-2.1,0.1-3.5,0.5-4.1c0.3-0.5,1-0.8,2.3-0.8l2.6-0.2V0.9c-2.8,0.1-5.4,0.2-7.9,0.2
+  c-2.7,0-5.3-0.1-8.1-0.2v1.6l2.6,0.2c1.3,0.1,2,0.3,2.3,0.8c0.4,0.6,0.5,2,0.5,4.1v24.6c0,2.1-0.1,3.5-0.5,4.1
+  c-0.3,0.5-1,0.8-2.3,0.8l-2.6,0.2V39c2.8-0.1,5.4-0.2,8.1-0.2c2.5,0,5.1,0.1,7.9,0.2v-1.6l-2.6-0.2c-1.3-0.1-2-0.3-2.3-0.8
+  c-0.4-0.6-0.5-2-0.5-4.1V20c0.7-0.1,2.1-0.1,4.5-0.1h12.8c2.4,0,3.9,0.1,4.5,0.1v12.2c0,2.1-0.1,3.5-0.5,4.1c-0.3,0.5-1,0.8-2.3,0.8
+  l-2.6,0.2V39c2.8-0.1,5.4-0.2,8.1-0.2c2.5,0,5.1,0.1,7.9,0.2v-1.6l-2.6-0.2c-1.3-0.1-2-0.3-2.3-0.8c-0.4-0.6-0.5-2-0.5-4.1V7.7
+  c0-2.1,0.1-3.5,0.5-4.1c0.3-0.5,1-0.8,2.3-0.8l2.6-0.2V0.9C109,1,106.5,1.1,104,1.1C101.3,1.1,98.7,1,95.9,0.9"/>
+<path class="st0" d="M116.7,0.9v1.6l2.6,0.2c1.3,0.1,2,0.3,2.3,0.8c0.4,0.6,0.5,2,0.5,4.1v24.6c0,2.1-0.1,3.5-0.5,4.1
+  c-0.3,0.5-1,0.8-2.3,0.8l-2.6,0.2V39c2.8-0.1,5.4-0.2,8.1-0.2c2.5,0,5.1,0.1,7.9,0.2v-1.6l-2.6-0.2c-1.3-0.1-2-0.3-2.3-0.8
+  c-0.4-0.6-0.5-2-0.5-4.1V7.7c0-2.1,0.1-3.5,0.5-4.1c0.3-0.5,1-0.8,2.3-0.8l2.6-0.2V0.9c-2.8,0.1-5.4,0.2-7.9,0.2
+  C122.1,1.1,119.5,1,116.7,0.9"/>
+<path class="st0" d="M168.1,24.1c-2.2,0-4.4-0.1-6.7-0.1v1.6L166,26c1.4,0.1,1.9,0.7,1.9,1.9v5.5c0,1.4-0.1,1.6-0.3,2.2
+  c-0.3,1-3.5,1.9-7.7,1.9c-11.3,0-17.6-7.8-17.6-18.7c0-9.7,5.4-16.6,15.8-16.6c3.6,0,5.9,0.4,7.7,1c2.6,0.9,4.5,1.8,4.5,4.4v2.9h1.7
+  c0-2.8,0.4-5.7,1.1-8.3c-2.5-0.7-6.8-2.2-13.6-2.2c-13.2,0-23.1,7.8-23.1,19.8c0,13.7,9.9,20.1,22.1,20.1c3.8,0,9.7-1.4,14.4-2.8
+  v-9.2c0-1.6,0-1.8,0.6-2l1.6-0.5l-0.2-1.4C172.6,24,170.4,24.1,168.1,24.1"/>
+<path class="st0" d="M205.5,0.9v1.6l2.6,0.2c1.3,0.1,2,0.3,2.3,0.8c0.4,0.6,0.5,2,0.5,4.1v9.7c-0.7,0.1-2.1,0.1-4.5,0.1h-12.8
+  c-2.4,0-3.9-0.1-4.5-0.1V7.7c0-2.1,0.1-3.5,0.5-4.1c0.3-0.5,1-0.8,2.3-0.8l2.6-0.2V0.9c-2.8,0.1-5.4,0.2-7.9,0.2
+  c-2.7,0-5.3-0.1-8.1-0.2v1.6l2.6,0.2c1.3,0.1,2,0.3,2.3,0.8c0.4,0.6,0.5,2,0.5,4.1v24.6c0,2.1-0.1,3.5-0.5,4.1
+  c-0.3,0.5-1,0.8-2.3,0.8l-2.6,0.2V39c2.8-0.1,5.4-0.2,8.1-0.2c2.5,0,5.1,0.1,7.9,0.2v-1.6l-2.6-0.2c-1.3-0.1-2-0.3-2.3-0.8
+  c-0.4-0.6-0.5-2-0.5-4.1V20c0.7-0.1,2.1-0.1,4.5-0.1h12.8c2.4,0,3.9,0.1,4.5,0.1v12.2c0,2.1-0.1,3.5-0.5,4.1c-0.3,0.5-1,0.8-2.3,0.8
+  l-2.6,0.2V39c2.8-0.1,5.4-0.2,8.1-0.2c2.5,0,5.1,0.1,7.9,0.2v-1.6l-2.6-0.2c-1.3-0.1-2-0.3-2.3-0.8c-0.4-0.6-0.5-2-0.5-4.1V7.7
+  c0-2.1,0.1-3.5,0.5-4.1c0.3-0.5,1-0.8,2.3-0.8l2.6-0.2V0.9c-2.8,0.1-5.4,0.2-7.9,0.2C210.9,1.1,208.3,1,205.5,0.9"/>
+</svg>
+
+      </a> 
+      </div><!-- /#lehigh-logo -->
+      
+    <div class="social-phone-search">
+      <div class="social-media-menu">
+        <a class="facebook" href="https://www.facebook.com/FudTruk" target="_blank">
+            <i class="fa fa-facebook" aria-hidden="true"></i>
+          </a>
+          <a class="twitter" href="https://twitter.com/fudtruk" target="_blank">
+            <i class="fa fa-twitter" aria-hidden="true"></i>
+          </a>
+          <a class="instagram" href="https://www.instagram.com/fudtruk" target="_blank">
+            <i class="fa fa-instagram" aria-hidden="true"></i>
+          </a>
+          <a class="youtube" href="https://www.youtube.com/channel/UCVRQu484Kx_sIuqGZJjJu3A" target="_blank">
+            <i class="fa fa-youtube" aria-hidden="true"></i>
+          </a>
+          <a href="tel:16107584166">
+           <i class="fa fa-phone" aria-hidden="true"></i>
+           </a>
+      </div><!-- /#social-media-menu -->
+      <!--<div class="telephone-number">
+        <i class="fa fa-phone" aria-hidden="true"><a href="tel:16107584166">610.758.4166</a></i>
+      </div>-->
+      <div class="search hide-on-print">
+         <script src="//www.lehigh.edu/~inis/search/google_template_v4.js" type="text/javascript"></script>
+      </div>
+    </div> 
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/" title="Home" rel="home"><span>Fudtruk</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Fast. Fresh. Food.</div>
+              </div><!-- /#name-and-slogan -->
+    
+            
+  </header><!-- /.section, /#header -->
+  <a href="#block-system-main" class="scroll-down" address="true"></a>
+  
+  <div class="video">
+    <video autoplay="" controls="" id="bgvid" loop="" muted="" playsinline="">
+  <source src="/sites/fudtruk.lehigh.edu/themes/fudtruk2017/video/Fudtruk_Final_Compressed.mp4" type="video/mp4">
+  </video>
+  <div class="mobile-background" style="background-image:url(/sites/fudtruk.lehigh.edu/themes/fudtruk2017/images/fudtruk-uc.jpg)">
+ 
+   </div>
+
+  </div>
+
+  <div id="main-wrapper">
+  <a name="about"></a>
+  <!--
+    <iframe id="bgvid" src="https://www.youtube.com/embed/PZ4pctQMdg4?controls=0&showinfo=0&rel=0&volume=0&autoplay=1&loop=1&playlist=PZ4pctQMdg4" frameborder="0">
+    </iframe>
+  -->
+
+    <div id="main" class="clearfix">
+
+    <div id="content" class="column"><div class="section">
+        <div class="region region-highlighted">
+    <div id="block-system-main-menu" class="block block-system block-menu first last odd">
+
+      
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="https://fudtruk.lehigh.edu/#block-system-main" title="">About</a></li>
+<li class="leaf"><a href="https://fudtruk.lehigh.edu/#block-block-1" title="">Menu</a></li>
+<li class="leaf"><a href="https://fudtruk.lehigh.edu/#block-views-staff-block" title="">Staff</a></li>
+<li class="leaf"><a href="https://fudtruk.lehigh.edu/#block-views-testimonials-block" title="">Praise</a></li>
+<li class="last leaf"><a href="https://fudtruk.lehigh.edu/#block-views-webform-block" title="">Contact</a></li>
+</ul>  </div>
+
+</div><!-- /.block -->
+  </div><!-- /.region -->
+      <a id="main-content"></a>
+            <div class="page-crumbs">
+              <h1 class="title" id="page-title">Home</h1>
+                  </div>
+                                      <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+      
+  <div class="content">
+    <div id="node-1" class="node node-frontpage view-mode-full clearfix" about="/node/1" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="Home" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  
+  <div class="content">
+    
+<div class="paragraphs-items paragraphs-items-field-about-section paragraphs-items-field-about-section-full paragraphs-items-full">
+  <div class="field field-name-field-about-section field-type-paragraphs field-label-hidden"><div class="field-items"><div class="field-item even"><div class="entity entity-paragraphs-item paragraphs-item-about-section" about="" typeof="">
+  <div class="content">
+    <div class="field field-name-field-about-headline field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">The FÜD Starts Here</div></div></div><div class="field field-name-field-about-text field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>The Füd (actually pronounced 'Food') Truk is a mobile culinary unit on Lehigh University Campus. We have been serving seasonal and locally sourced food since 2012, and rocking out great sandwiches and food ever since. From locally sourced potatoes for our crispy handcut fries, to our cage-free eggs for our breakfast sandwiches, we always strive to provide students with a constantly evolving menu made with things that are great for you. The menu varies based on the season, but y'all can expect to see a theme of comfort foods. We may get crazy every now and then, follow us on Twitter for specials and feel free to request! Check us out at Lehigh Football Games! Vegetarians, Carnivores, we've got you covered. Concerns about allergies? Feel free to talk to us, we don't bite! Looking for us to cater an event for you? Just ask, we'd love to hear from you. </p>
+</div></div></div>  </div>
+</div>
+</div><div class="field-item odd"><div class="entity entity-paragraphs-item paragraphs-item-contact-information" about="" typeof="">
+  <div class="content">
+    <div class="field field-name-field-phone-number field-type-text field-label-above"><div class="field-label">Phone Number:&nbsp;</div><div class="field-items"><div class="field-item even">(484) 357 2035</div></div></div><div class="field field-name-field-hours field-type-text field-label-above"><div class="field-label">Hours:&nbsp;</div><div class="field-items"><div class="field-item even">Monday - Fri: 9am - 3pm</div><div class="field-item odd">Saturday - Sunday: Check Twitter!</div></div></div><div class="field field-name-field-we-accept field-type-text field-label-above"><div class="field-label">We Accept:&nbsp;</div><div class="field-items"><div class="field-item even">Cash</div><div class="field-item odd">Dining Dollars</div><div class="field-item even">Visa/Mastercard</div><div class="field-item odd">Lehigh GoldPlus</div><div class="field-item even">LU Department Charges</div></div></div>  </div>
+</div>
+</div></div></div></div>
+  </div>
+
+  
+  
+</div><!-- /.node -->
+  </div>
+
+</div><!-- /.block -->
+<div id="block-views-slider-block" class="block block-views even">
+
+      
+  <div class="content">
+    <div class="view view-slider view-id-slider view-display-id-block view-dom-id-c4f0b286592b838bfdd9c01ca03178cd">
+        
+  
+  
+      <div class="view-content">
+      
+  <div class="skin-default">
+    
+    <div id="bxslider_views_slideshow_main_slider-block" class="bxslider_views_slideshow_main views_slideshow_main"><div id="views-slideshow-bxslider-1" class="views-slideshow-bxslider">
+    <ul id="views-slideshow-bxslider-images-1" class="bxslider-views-slideshow-main-frame bxslider">
+          <li id="views_slideshow_cycle_div_1_0" class="bxslider-views-slideshow-main-frame-row">
+    
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="slider">
+<img typeof="foaf:Image" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/styles/slider_image/public/lit-logo_0.jpg?itok=19WobBjB" width="1400" height="500" alt="" />
+<div class="slider-text"> 
+<h2>The Fudtruk gets Lit</h2>
+<p>We are proud to be serving Lit Coffee, roasted right here in Bethlehem!</p>
+<a href="https://www.facebook.com/litroasteryandbakeshop/" target="_blank">Check them out! </a>
+</div>
+</div></span>  </div></li>
+
+          <li id="views_slideshow_cycle_div_1_1" class="bxslider-views-slideshow-main-frame-row">
+    
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="slider">
+<img typeof="foaf:Image" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/styles/slider_image/public/Local%20Potatoes%20Fud%20Truk.png?itok=byhrznWS" width="1400" height="500" alt="" />
+<div class="slider-text"> 
+<h2>Handgrown Potatoes</h2>
+<p>Our hand cut French Fries are from fresh potatoes grown at Masser Potato Farms in Lancaster County, PA. Only 59 miles from Lehigh University!</p>
+<a href="http://stermanmasser.com/" target="_blank">See the Farm </a>
+</div>
+</div></span>  </div></li>
+
+          <li id="views_slideshow_cycle_div_1_2" class="bxslider-views-slideshow-main-frame-row">
+    
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="slider">
+<img typeof="foaf:Image" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/styles/slider_image/public/9045046791_082a1a730d_o.jpg?itok=FJW7KQXe" width="1400" height="500" alt="" />
+<div class="slider-text"> 
+<h2>Go Lehigh!</h2>
+<p>Enjoy some Füdtruk while you root for the Lehigh Football Team!
+</p>
+
+</div>
+</div></span>  </div></li>
+
+          <li id="views_slideshow_cycle_div_1_3" class="bxslider-views-slideshow-main-frame-row">
+    
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="slider">
+<img typeof="foaf:Image" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/styles/slider_image/public/Musikfest-special-banner.jpg?itok=AT9iptib" width="1400" height="500" alt="" />
+<div class="slider-text"> 
+<h2>Fudtruk @ Musikfest!</h2>
+<p>Visit the Füdtruk at Musikfest at the Air Products American Platz at Levitt Pavilion Steelstacks, located on the Southside. Smoked Chicken Pita, Chickpea Popcorn and more highlight the menu!</p>
+<a href="http://www.musikfest.org/fud-truck-3/" target="_blank">Check it out! </a>
+</div>
+</div></span>  </div></li>
+
+      </ul>
+</div>
+</div>
+      </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+</div><!-- /.block -->
+<div id="block-block-1" class="block block-block odd">
+
+      
+  <div class="content">
+    <p><a class="fud-secret-menu" target="_blank" href="/sites/fudtruk.lehigh.edu/themes/fudtruk2017/images/Fud_Secret_Menu.jpg"><img src="/sites/fudtruk.lehigh.edu/themes/fudtruk2017/images/fudtruk-logo.png" /></a></p>
+  </div>
+
+</div><!-- /.block -->
+<div id="block-views-food-block" class="block block-views even">
+
+      
+  <div class="content">
+    <div class="view view-food view-id-food view-display-id-block view-dom-id-acad2da24793a6a1bb12f4be1457690c">
+            <div class="view-header">
+      <h2 class="block-title">Breakfast</h2>
+<div class="block-text">Our breakfast sandwiches are our bread and butter - literally. Every sandwich begins with two lightly buttered, warm pieces of griddled bread and two cage-free scramble eggs. Imagine a grilled cheese... but a breakfast sandwich. Awesome, right? </div>
+    </div>
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="menu-item">
+<div class="price">
+<div class="views-field-field-price">
+<div class="item-list"><ol><li class="first">4</li>
+<li class="last">50</li>
+</ol></div>
+</div>
+</div>
+<div class="menu-image">
+<div class="views-field-field-picture-of-food">
+<a href="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/RAM_6734.jpg" title="" class="colorbox" data-colorbox-gallery="gallery-node-9-field_picture_of_food-MQjoKWXVOgY" data-cbox-img-attrs="{&quot;title&quot;: &quot;&quot;, &quot;alt&quot;: &quot;&quot;}"><img typeof="foaf:Image" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/styles/medium/public/RAM_6734.jpg?itok=VHSGmxPQ" width="220" height="220" alt="" title="" /></a>
+</div>
+</div>
+<div class="menu-item-desc">
+<div class="views-field-title">
+The Joe
+</div>
+<div class="views-field-field-ingredients">
+<div class="item-list"><ul><li class="first last">2 Scrambled Eggs, Fresh Breakfast Sausage, and Cheddar Cheese on Griddled Country Bread</li>
+</ul></div>
+</div>
+</div>
+</div></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="menu-item">
+<div class="price">
+<div class="views-field-field-price">
+<div class="item-list"><ol><li class="first">4</li>
+<li class="last">50</li>
+</ol></div>
+</div>
+</div>
+<div class="menu-image">
+<div class="views-field-field-picture-of-food">
+<a href="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/RAM_6715.jpg" title="" class="colorbox" data-colorbox-gallery="gallery-node-5-field_picture_of_food-MQjoKWXVOgY" data-cbox-img-attrs="{&quot;title&quot;: &quot;&quot;, &quot;alt&quot;: &quot;&quot;}"><img typeof="foaf:Image" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/styles/medium/public/RAM_6715.jpg?itok=01isoxfG" width="220" height="220" alt="" title="" /></a>
+</div>
+</div>
+<div class="menu-item-desc">
+<div class="views-field-title">
+The Classic
+</div>
+<div class="views-field-field-ingredients">
+<div class="item-list"><ul><li class="first last">2 Scrambled Eggs, Crispy Applewood Smoked Bacon, and American Cheese on Griddled Country Bread</li>
+</ul></div>
+</div>
+</div>
+</div></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="menu-item">
+<div class="price">
+<div class="views-field-field-price">
+<div class="item-list"><ol><li class="first">3</li>
+<li class="last">50</li>
+</ol></div>
+</div>
+</div>
+<div class="menu-image">
+<div class="views-field-field-picture-of-food">
+<a href="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/RAM_6747.jpg" title="" class="colorbox" data-colorbox-gallery="gallery-node-4-field_picture_of_food-MQjoKWXVOgY" data-cbox-img-attrs="{&quot;title&quot;: &quot;&quot;, &quot;alt&quot;: &quot;&quot;}"><img typeof="foaf:Image" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/styles/medium/public/RAM_6747.jpg?itok=T8YqibXD" width="220" height="220" alt="" title="" /></a>
+</div>
+</div>
+<div class="menu-item-desc">
+<div class="views-field-title">
+The Plain Jane
+</div>
+<div class="views-field-field-ingredients">
+<div class="item-list"><ul><li class="first last">2 Scrambled Eggs, and American Cheese on Griddled Country Bread</li>
+</ul></div>
+</div>
+</div>
+</div></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even views-row-last">
+      
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="menu-item">
+<div class="price">
+<div class="views-field-field-price">
+<div class="item-list"><ol><li class="first">4</li>
+<li class="last">50</li>
+</ol></div>
+</div>
+</div>
+<div class="menu-image">
+<div class="views-field-field-picture-of-food">
+<a href="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/RAM_6738.jpg" title="" class="colorbox" data-colorbox-gallery="gallery-node-3-field_picture_of_food-MQjoKWXVOgY" data-cbox-img-attrs="{&quot;title&quot;: &quot;&quot;, &quot;alt&quot;: &quot;&quot;}"><img typeof="foaf:Image" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/styles/medium/public/RAM_6738.jpg?itok=nxGkTo69" width="220" height="220" alt="" title="" /></a>
+</div>
+</div>
+<div class="menu-item-desc">
+<div class="views-field-title">
+The Rolling Stone
+</div>
+<div class="views-field-field-ingredients">
+<div class="item-list"><ul><li class="first last">2 Scrambled Eggs, Brown Sugar Ham, and Cooper Cheese on Griddled Country Bread</li>
+</ul></div>
+</div>
+</div>
+</div></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+</div><!-- /.block -->
+<div id="block-views-food-block-1" class="block block-views odd">
+
+      
+  <div class="content">
+    <div class="view view-food view-id-food view-display-id-block_1 view-dom-id-0e0a96115f92323381a3b7e889abb0fa">
+            <div class="view-header">
+      <h2 class="block-title">Lunch</h2>
+<div class="block-text">Everyone loves a sandwich, but nobody as much as us. We source local meats, cheeses, and breads. Plus, all of our sauces are made 100% from scratch. We think that's what makes our sandwiches better, and we think you'll agree.</div>
+    </div>
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="menu-item">
+<div class="price">
+<div class="views-field-field-price">
+<div class="item-list"><ol><li class="first">6</li>
+<li class="last">50</li>
+</ol></div>
+</div>
+</div>
+<div class="menu-image">
+<div class="views-field-field-picture-of-food">
+<a href="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/RAM_6827.jpg" title="" class="colorbox" data-colorbox-gallery="gallery-node-23-field_picture_of_food-MQjoKWXVOgY" data-cbox-img-attrs="{&quot;title&quot;: &quot;&quot;, &quot;alt&quot;: &quot;&quot;}"><img typeof="foaf:Image" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/styles/medium/public/RAM_6827.jpg?itok=YEuJXtQa" width="220" height="220" alt="" title="" /></a>
+</div>
+</div>
+<div class="menu-item-desc">
+<div class="views-field-title">
+The Athena
+</div>
+<div class="views-field-field-ingredients">
+<div class="item-list"><ul><li class="first last">House-Smoked Chicken, English Cucumber, Romaine Lettuce, Chimichurri, and Greek Yogurt, on Griddled Pita</li>
+</ul></div>
+</div>
+</div>
+</div></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="menu-item">
+<div class="price">
+<div class="views-field-field-price">
+<div class="item-list"><ol><li class="first">3</li>
+<li class="last">50</li>
+</ol></div>
+</div>
+</div>
+<div class="menu-image">
+<div class="views-field-field-picture-of-food">
+<a href="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/RAM_6866.jpg" title="" class="colorbox" data-colorbox-gallery="gallery-node-22-field_picture_of_food-MQjoKWXVOgY" data-cbox-img-attrs="{&quot;title&quot;: &quot;&quot;, &quot;alt&quot;: &quot;&quot;}"><img typeof="foaf:Image" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/styles/medium/public/RAM_6866.jpg?itok=lTEW-F9Z" width="220" height="220" alt="" title="" /></a>
+</div>
+</div>
+<div class="menu-item-desc">
+<div class="views-field-title">
+The Cheese Louise
+</div>
+<div class="views-field-field-ingredients">
+<div class="item-list"><ul><li class="first last">Grilled Cheese with Mozzarella, Cheddar, and American Cheese</li>
+</ul></div>
+</div>
+</div>
+</div></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="menu-item">
+<div class="price">
+<div class="views-field-field-price">
+<div class="item-list"><ol><li class="first">6</li>
+<li class="last">50</li>
+</ol></div>
+</div>
+</div>
+<div class="menu-image">
+<div class="views-field-field-picture-of-food">
+<a href="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/RAM_6808.jpg" title="" class="colorbox" data-colorbox-gallery="gallery-node-19-field_picture_of_food-MQjoKWXVOgY" data-cbox-img-attrs="{&quot;title&quot;: &quot;&quot;, &quot;alt&quot;: &quot;&quot;}"><img typeof="foaf:Image" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/styles/medium/public/RAM_6808.jpg?itok=nuRCBO3C" width="220" height="220" alt="" title="" /></a>
+</div>
+</div>
+<div class="menu-item-desc">
+<div class="views-field-title">
+The Pesto Pabo
+</div>
+<div class="views-field-field-ingredients">
+<div class="item-list"><ul><li class="first last">Oven roasted turkey, spinach, basil, mozzarella ,tomato and roasted garlic aioli </li>
+</ul></div>
+</div>
+</div>
+</div></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="menu-item">
+<div class="price">
+<div class="views-field-field-price">
+<div class="item-list"><ol><li class="first">6</li>
+<li class="last">00</li>
+</ol></div>
+</div>
+</div>
+<div class="menu-image">
+<div class="views-field-field-picture-of-food">
+<a href="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/RAM_6773.jpg" title="" class="colorbox" data-colorbox-gallery="gallery-node-18-field_picture_of_food-MQjoKWXVOgY" data-cbox-img-attrs="{&quot;title&quot;: &quot;&quot;, &quot;alt&quot;: &quot;&quot;}"><img typeof="foaf:Image" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/styles/medium/public/RAM_6773.jpg?itok=TUk3GTKk" width="220" height="220" alt="" title="" /></a>
+</div>
+</div>
+<div class="menu-item-desc">
+<div class="views-field-title">
+The Falafel
+</div>
+<div class="views-field-field-ingredients">
+<div class="item-list"><ul><li class="first last">Homemade Spiced Chickpea Fritters, Tzaziki Sauce, Cucumbers, Tomatoes, and Lettuce on Grilled PIta</li>
+</ul></div>
+</div>
+</div>
+</div></span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="menu-item">
+<div class="price">
+<div class="views-field-field-price">
+<div class="item-list"><ol><li class="first">7</li>
+<li class="last">00</li>
+</ol></div>
+</div>
+</div>
+<div class="menu-image">
+<div class="views-field-field-picture-of-food">
+<a href="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/brownandwhite.png" title="" class="colorbox" data-colorbox-gallery="gallery-node-17-field_picture_of_food-MQjoKWXVOgY" data-cbox-img-attrs="{&quot;title&quot;: &quot;&quot;, &quot;alt&quot;: &quot;&quot;}"><img typeof="foaf:Image" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/styles/medium/public/brownandwhite.png?itok=IS2OkmBU" width="212" height="220" alt="" title="" /></a>
+</div>
+</div>
+<div class="menu-item-desc">
+<div class="views-field-title">
+The Brown and White
+</div>
+<div class="views-field-field-ingredients">
+<div class="item-list"><ul><li class="first last">Homemade Italian Roast Beef, Caramelized Onions, Local Provolone, and Roasted Garlic Aioli, on a Toasted Brioche Bun</li>
+</ul></div>
+</div>
+</div>
+</div></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+</div><!-- /.block -->
+<div id="block-views-food-block-3" class="block block-views even">
+
+      
+  <div class="content">
+    <div class="view view-food view-id-food view-display-id-block_3 view-dom-id-b6020f37e74aef9ffa3a6b84aaa198a7">
+            <div class="view-header">
+      <h2 class="block-title">Specials</h2>
+<div class="block-text"> Sometimes we like to get a little funky. Sometimes funky can be delicious. Our specials are experimentation - check back in to this section of the menu from time to time for interesting and damn good deviations from the norm. </div>
+    </div>
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="menu-item">
+<div class="price">
+<div class="views-field-field-price">
+<div class="item-list"><ol><li class="first">5</li>
+<li class="last">00</li>
+</ol></div>
+</div>
+</div>
+<div class="menu-image">
+<div class="views-field-field-picture-of-food">
+<a href="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/TheMiji.jpg" title="" class="colorbox" data-colorbox-gallery="gallery-node-25-field_picture_of_food-MQjoKWXVOgY" data-cbox-img-attrs="{&quot;title&quot;: &quot;&quot;, &quot;alt&quot;: &quot;&quot;}"><img typeof="foaf:Image" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/styles/medium/public/TheMiji.jpg?itok=qODSedl3" width="220" height="220" alt="" title="" /></a>
+</div>
+</div>
+<div class="menu-item-desc">
+<div class="views-field-title">
+The Miji
+</div>
+<div class="views-field-field-ingredients">
+<div class="item-list"><ul><li class="first last">Two Hot, Fluffy, Scrambled Eggs, Caramelized Onions, Spicy Mayo, and Crispy Tater-Tots in a Warm Flour Tortilla</li>
+</ul></div>
+</div>
+</div>
+</div></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even views-row-last">
+      
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="menu-item">
+<div class="price">
+<div class="views-field-field-price">
+<div class="item-list"><ol><li class="first">7</li>
+<li class="last">00</li>
+</ol></div>
+</div>
+</div>
+<div class="menu-image">
+<div class="views-field-field-picture-of-food">
+<a href="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/RAM_6848.jpg" title="" class="colorbox" data-colorbox-gallery="gallery-node-21-field_picture_of_food-MQjoKWXVOgY" data-cbox-img-attrs="{&quot;title&quot;: &quot;&quot;, &quot;alt&quot;: &quot;&quot;}"><img typeof="foaf:Image" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/styles/medium/public/RAM_6848.jpg?itok=pY2cQr05" width="220" height="220" alt="" title="" /></a>
+</div>
+</div>
+<div class="menu-item-desc">
+<div class="views-field-title">
+The Pulled Porker
+</div>
+<div class="views-field-field-ingredients">
+<div class="item-list"><ul><li class="first last">Slow Smoked Pork Shoulder, with Buffalo Coleslaw, Cheddar Cheese and Bourbon BBQ on Griddled Ciabatta - Combo it with a Fries + Drink for $10</li>
+</ul></div>
+</div>
+</div>
+</div></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+</div><!-- /.block -->
+<div id="block-views-food-block-2" class="block block-views odd">
+
+      
+  <div class="content">
+    <div class="view view-food view-id-food view-display-id-block_2 view-dom-id-6c1c7ff7a44cde230d6d36c5eefe77ab">
+            <div class="view-header">
+      <h2 class="block-title">Sides &amp; Drinks</h2>
+<div class="block-text">We proudly serve assorted Pepsi products</div>
+    </div>
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="menu-item">
+<div class="price">
+<div class="views-field-field-price">
+<div class="item-list"><ol><li class="first">3</li>
+<li class="last">00</li>
+</ol></div>
+</div>
+</div>
+<div class="menu-image">
+<div class="views-field-field-picture-of-food">
+<a href="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/RAM_6819_0.jpg" title="" class="colorbox" data-colorbox-gallery="gallery-node-11-field_picture_of_food-MQjoKWXVOgY" data-cbox-img-attrs="{&quot;title&quot;: &quot;&quot;, &quot;alt&quot;: &quot;&quot;}"><img typeof="foaf:Image" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/styles/medium/public/RAM_6819_0.jpg?itok=ZQpIR6R0" width="220" height="220" alt="" title="" /></a>
+</div>
+</div>
+<div class="menu-item-desc">
+<div class="views-field-title">
+Handcut Fries
+</div>
+<div class="views-field-field-ingredients">
+<div class="item-list"><ul><li class="first last">Hot, crispy, and tossed with our Signature Spice Blend</li>
+</ul></div>
+</div>
+</div>
+</div></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even views-row-last">
+      
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="menu-item">
+<div class="price">
+<div class="views-field-field-price">
+<div class="item-list"><ol><li class="first">1</li>
+<li class="last">50</li>
+</ol></div>
+</div>
+</div>
+<div class="menu-image">
+<div class="views-field-field-picture-of-food">
+<a href="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/Pepsi-Logo_0.png" title="" class="colorbox" data-colorbox-gallery="gallery-node-26-field_picture_of_food-MQjoKWXVOgY" data-cbox-img-attrs="{&quot;title&quot;: &quot;&quot;, &quot;alt&quot;: &quot;&quot;}"><img typeof="foaf:Image" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/styles/medium/public/Pepsi-Logo_0.png?itok=bJ2WI_-n" width="220" height="220" alt="" title="" /></a>
+</div>
+</div>
+<div class="menu-item-desc">
+<div class="views-field-title">
+Pepsi Products
+</div>
+<div class="views-field-field-ingredients">
+<div class="item-list"><ul><li class="first last">Bottled Water, Assorted Pepsi Cans, Gatorades, Juices and Coffee</li>
+</ul></div>
+</div>
+</div>
+</div></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+</div><!-- /.block -->
+<div id="block-views-staff-block" class="block block-views even">
+
+        <h2 class="block-title">Staff</h2>
+    
+  <div class="content">
+    <div class="view view-staff view-id-staff view-display-id-block view-dom-id-d55ec4611d01018e620d555a75af8d83">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-title">        <span class="field-content">Will Rufe</span>  </div>  
+  <div class="views-field views-field-field-position">        <div class="field-content">Head Chef</div>  </div>  
+  <div class="views-field views-field-field-photo">        <div class="field-content"><img typeof="foaf:Image" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/RAM_6698.jpg" width="2456" height="2456" alt="" /></div>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content">Dawn</span>  </div>  
+  <div class="views-field views-field-field-position">        <div class="field-content">Supervisor</div>  </div>  
+  <div class="views-field views-field-field-photo">        <div class="field-content"><img typeof="foaf:Image" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/RAM_6642_0.jpg" width="1999" height="1999" alt="" /></div>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content">Geoffrey</span>  </div>  
+  <div class="views-field views-field-field-position">        <div class="field-content">Chef</div>  </div>  
+  <div class="views-field views-field-field-photo">        <div class="field-content"><img typeof="foaf:Image" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/RAM_6633.jpg" width="2456" height="2456" alt="" /></div>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content">Whitney</span>  </div>  
+  <div class="views-field views-field-field-position">        <div class="field-content">Cashier</div>  </div>  
+  <div class="views-field views-field-field-photo">        <div class="field-content"><img typeof="foaf:Image" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/RAM_6654.jpg" width="1922" height="1922" alt="" /></div>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content">Sydney</span>  </div>  
+  <div class="views-field views-field-field-position">        <div class="field-content">Cashier</div>  </div>  
+  <div class="views-field views-field-field-photo">        <div class="field-content"><img typeof="foaf:Image" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/RAM_6648.jpg" width="2135" height="2135" alt="" /></div>  </div>  </div>
+  <div class="views-row views-row-6 views-row-even views-row-last">
+      
+  <div class="views-field views-field-title">        <span class="field-content">Jared </span>  </div>  
+  <div class="views-field views-field-field-position">        <div class="field-content">Prep/Cashier</div>  </div>  
+  <div class="views-field views-field-field-photo">        <div class="field-content"><img typeof="foaf:Image" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/RAM_6672.jpg" width="2217" height="2217" alt="" /></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+</div><!-- /.block -->
+<div id="block-views-testimonials-block" class="block block-views last odd">
+
+      
+  <div class="content">
+    <div class="view view-testimonials view-id-testimonials view-display-id-block view-dom-id-2117de222f54cf5a16b19284d5a4576a">
+            <div class="view-header">
+      <p><span>Praise</span><span> for</span> <span>the</span> <span>Füd</span></p>
+    </div>
+  
+  
+  
+      <div class="view-content">
+      
+  <div class="skin-default">
+    
+    <div id="bxslider_views_slideshow_main_testimonials-block" class="bxslider_views_slideshow_main views_slideshow_main"><div id="views-slideshow-bxslider-2" class="views-slideshow-bxslider">
+    <ul id="views-slideshow-bxslider-images-2" class="bxslider-views-slideshow-main-frame bxslider">
+          <li id="views_slideshow_cycle_div_2_0" class="bxslider-views-slideshow-main-frame-row">
+    
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="testimonial-wrapper">
+<div class="testimonial">
+<div class="testimonial-text">
+The Füdtruk has been a great addition to our Dining Services at Lehigh. The menu is healthy and the food is delicious. It&#039;s a mainstay for Lehigh events, fundraisers and football games.  
+</div>
+<div class="testimonial-giver-name">
+David Joseph
+</div>
+<div class="testimonial-giver-position">
+Executive Director 
+</div>
+<div class="testimonial-giver-company">
+<a href="https://financeadmin.lehigh.edu/auxiliary">Lehigh Student Auxiliary Services</a>
+</div>
+</div>
+</div></span>  </div></li>
+
+          <li id="views_slideshow_cycle_div_2_1" class="bxslider-views-slideshow-main-frame-row">
+    
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="testimonial-wrapper">
+<div class="testimonial">
+<div class="testimonial-text">
+The Fudtruk is famous for its fresh-cut French Fries. Guaranteed to be the best you&#039;ve ever had!
+</div>
+<div class="testimonial-giver-name">
+Saucon Creek Arts Festival
+</div>
+<div class="testimonial-giver-position">
+Hellertown, PA 
+</div>
+<div class="testimonial-giver-company">
+<a href="http://www.sauconvalleyconservancy.org/saucon-creek-arts-festival.html">Website</a>
+</div>
+</div>
+</div></span>  </div></li>
+
+      </ul>
+</div>
+</div>
+      </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+</div><!-- /.block -->
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+
+    
+    
+    
+  </div></div><!-- /#main, /#main-wrapper -->
+
+    <div class="region region-footer">
+    <div id="block-views-webform-block" class="block block-views first last odd">
+
+      
+  <div class="content">
+    <div class="view view-webform view-id-webform view-display-id-block view-dom-id-72f80ba4eced5b993900d1d592685327">
+            <div class="view-header">
+      <div class="fud-form-wrapper">
+<h3>Got a Need for the FÜd?</h3>
+<h5>Hit us up <span id="three">➔</span></h5>
+<h4>*We'll answer questions about Events, Catering, Dietary Restrictions, and Feedback too.</h4>
+</div>
+    </div>
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-webform-form-body">        <span class="field-content"><form class="webform-client-form" enctype="multipart/form-data" action="/node/1" method="post" id="webform-client-form-2" accept-charset="UTF-8"><div><div class="form-item webform-component webform-component-textfield" id="webform-component-name">
+  <label for="edit-submitted-name">Name <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-submitted-name" name="submitted[name]" value="" size="60" maxlength="128" class="form-text required" />
+</div>
+<div class="form-item webform-component webform-component-email" id="webform-component-email">
+  <label for="edit-submitted-email">Email <span class="form-required" title="This field is required.">*</span></label>
+ <input class="email form-text form-email required" type="email" id="edit-submitted-email" name="submitted[email]" size="60" />
+</div>
+<div class="form-item webform-component webform-component-textarea" id="webform-component-what-youre-lookin-for">
+  <label for="edit-submitted-what-youre-lookin-for">What You're Lookin' For <span class="form-required" title="This field is required.">*</span></label>
+ <div class="form-textarea-wrapper resizable"><textarea id="edit-submitted-what-youre-lookin-for" name="submitted[what_youre_lookin_for]" cols="60" rows="5" class="form-textarea required"></textarea></div>
+</div>
+<input type="hidden" name="details[sid]" />
+<input type="hidden" name="details[page_num]" value="1" />
+<input type="hidden" name="details[page_count]" value="1" />
+<input type="hidden" name="details[finished]" value="0" />
+<input type="hidden" name="form_build_id" value="form-IjaOrMPxsFJkSFyr-8aRG660ZHu2aOHPFxkA-PXAzA4" />
+<input type="hidden" name="form_id" value="webform_client_form_2" />
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Submit" class="form-submit" /></div></div></form></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+</div><!-- /.block -->
+  </div><!-- /.region -->
+  
+    <!--
+      <div class="social-media">
+        <a class="instagram" href="https://instagram.com/sathya.ram" target="_blank">
+          <i class="fa fa-facebook" aria-hidden="true"></i>
+        </a>
+        <a class="instagram" href="https://instagram.com/sathya.ram" target="_blank">
+          <i class="fa fa-instagram" aria-hidden="true"></i>
+        </a>
+        <a class="instagram" href="https://instagram.com/sathya.ram" target="_blank">
+          <i class="fa fa-twitter" aria-hidden="true"></i>
+        </a>
+        <a class="instagram" href="https://instagram.com/sathya.ram" target="_blank">
+          <i class="fa fa-linkedin" aria-hidden="true"></i>
+        </a>
+      </div>
+    -->
+      
+  <div id="lehighfooter">
+    <script type="text/javascript" src="//www.lehigh.edu/~inltswms/include/footer/lu-footer-min.js"></script>
+  </div>
+</div></div><!-- /#page, /#page-wrapper -->
+
+  </body>
+</html>
