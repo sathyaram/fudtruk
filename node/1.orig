@@ -368,7 +368,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
           <li id="views_slideshow_cycle_div_1_0" class="bxslider-views-slideshow-main-frame-row">
     
   <div class="views-field views-field-nothing">        <span class="field-content"><div class="slider">
-<img typeof="foaf:Image" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/styles/slider_image/public/lit-logo_0.jpg?itok=19WobBjB" width="1400" height="500" alt="" />
+<img typeof="foaf:Image" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/styles/slider_image/public/lit-logo_0.jpg%itok=19WobBjB" width="1400" height="500" alt="" />
 <div class="slider-text"> 
 <h2>The Fudtruk gets Lit</h2>
 <p>We are proud to be serving Lit Coffee, roasted right here in Bethlehem!</p>
@@ -390,7 +390,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
           <li id="views_slideshow_cycle_div_1_2" class="bxslider-views-slideshow-main-frame-row">
     
   <div class="views-field views-field-nothing">        <span class="field-content"><div class="slider">
-<img typeof="foaf:Image" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/styles/slider_image/public/9045046791_082a1a730d_o.jpg?itok=FJW7KQXe" width="1400" height="500" alt="" />
+<img typeof="foaf:Image" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/styles/slider_image/public/9045046791_082a1a730d_o.jpg%itok=FJW7KQXe" width="1400" height="500" alt="" />
 <div class="slider-text"> 
 <h2>Go Lehigh!</h2>
 <p>Enjoy some Füdtruk while you root for the Lehigh Football Team!
@@ -402,7 +402,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
           <li id="views_slideshow_cycle_div_1_3" class="bxslider-views-slideshow-main-frame-row">
     
   <div class="views-field views-field-nothing">        <span class="field-content"><div class="slider">
-<img typeof="foaf:Image" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/styles/slider_image/public/Musikfest-special-banner.jpg?itok=AT9iptib" width="1400" height="500" alt="" />
+<img typeof="foaf:Image" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/styles/slider_image/public/Musikfest-special-banner.jpg%itok=AT9iptib" width="1400" height="500" alt="" />
 <div class="slider-text"> 
 <h2>Fudtruk @ Musikfest!</h2>
 <p>Visit the Füdtruk at Musikfest at the Air Products American Platz at Levitt Pavilion Steelstacks, located on the Southside. Smoked Chicken Pita, Chickpea Popcorn and more highlight the menu!</p>
@@ -457,7 +457,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 </div>
 <div class="menu-image">
 <div class="views-field-field-picture-of-food">
-<a href="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/RAM_6734.jpg" title="" class="colorbox" data-colorbox-gallery="gallery-node-9-field_picture_of_food-MQjoKWXVOgY" data-cbox-img-attrs="{&quot;title&quot;: &quot;&quot;, &quot;alt&quot;: &quot;&quot;}"><img typeof="foaf:Image" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/styles/medium/public/RAM_6734.jpg?itok=VHSGmxPQ" width="220" height="220" alt="" title="" /></a>
+<a href="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/RAM_6734.jpg" title="" class="colorbox" data-colorbox-gallery="gallery-node-9-field_picture_of_food-MQjoKWXVOgY" data-cbox-img-attrs="{&quot;title&quot;: &quot;&quot;, &quot;alt&quot;: &quot;&quot;}"><img typeof="foaf:Image" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/styles/medium/public/RAM_6734.jpg%itok=VHSGmxPQ" width="220" height="220" alt="" title="" /></a>
 </div>
 </div>
 <div class="menu-item-desc">
@@ -482,7 +482,7 @@ The Joe
 </div>
 <div class="menu-image">
 <div class="views-field-field-picture-of-food">
-<a href="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/RAM_6715.jpg" title="" class="colorbox" data-colorbox-gallery="gallery-node-5-field_picture_of_food-MQjoKWXVOgY" data-cbox-img-attrs="{&quot;title&quot;: &quot;&quot;, &quot;alt&quot;: &quot;&quot;}"><img typeof="foaf:Image" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/styles/medium/public/RAM_6715.jpg?itok=01isoxfG" width="220" height="220" alt="" title="" /></a>
+<a href="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/RAM_6715.jpg" title="" class="colorbox" data-colorbox-gallery="gallery-node-5-field_picture_of_food-MQjoKWXVOgY" data-cbox-img-attrs="{&quot;title&quot;: &quot;&quot;, &quot;alt&quot;: &quot;&quot;}"><img typeof="foaf:Image" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/styles/medium/public/RAM_6715.jpg%itok=01isoxfG" width="220" height="220" alt="" title="" /></a>
 </div>
 </div>
 <div class="menu-item-desc">
@@ -507,7 +507,7 @@ The Classic
 </div>
 <div class="menu-image">
 <div class="views-field-field-picture-of-food">
-<a href="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/RAM_6747.jpg" title="" class="colorbox" data-colorbox-gallery="gallery-node-4-field_picture_of_food-MQjoKWXVOgY" data-cbox-img-attrs="{&quot;title&quot;: &quot;&quot;, &quot;alt&quot;: &quot;&quot;}"><img typeof="foaf:Image" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/styles/medium/public/RAM_6747.jpg?itok=T8YqibXD" width="220" height="220" alt="" title="" /></a>
+<a href="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/RAM_6747.jpg" title="" class="colorbox" data-colorbox-gallery="gallery-node-4-field_picture_of_food-MQjoKWXVOgY" data-cbox-img-attrs="{&quot;title&quot;: &quot;&quot;, &quot;alt&quot;: &quot;&quot;}"><img typeof="foaf:Image" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/styles/medium/public/RAM_6747.jpg%itok=T8YqibXD" width="220" height="220" alt="" title="" /></a>
 </div>
 </div>
 <div class="menu-item-desc">
@@ -532,7 +532,7 @@ The Plain Jane
 </div>
 <div class="menu-image">
 <div class="views-field-field-picture-of-food">
-<a href="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/RAM_6738.jpg" title="" class="colorbox" data-colorbox-gallery="gallery-node-3-field_picture_of_food-MQjoKWXVOgY" data-cbox-img-attrs="{&quot;title&quot;: &quot;&quot;, &quot;alt&quot;: &quot;&quot;}"><img typeof="foaf:Image" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/styles/medium/public/RAM_6738.jpg?itok=nxGkTo69" width="220" height="220" alt="" title="" /></a>
+<a href="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/RAM_6738.jpg" title="" class="colorbox" data-colorbox-gallery="gallery-node-3-field_picture_of_food-MQjoKWXVOgY" data-cbox-img-attrs="{&quot;title&quot;: &quot;&quot;, &quot;alt&quot;: &quot;&quot;}"><img typeof="foaf:Image" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/styles/medium/public/RAM_6738.jpg%itok=nxGkTo69" width="220" height="220" alt="" title="" /></a>
 </div>
 </div>
 <div class="menu-item-desc">
@@ -580,7 +580,7 @@ The Rolling Stone
 </div>
 <div class="menu-image">
 <div class="views-field-field-picture-of-food">
-<a href="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/RAM_6827.jpg" title="" class="colorbox" data-colorbox-gallery="gallery-node-23-field_picture_of_food-MQjoKWXVOgY" data-cbox-img-attrs="{&quot;title&quot;: &quot;&quot;, &quot;alt&quot;: &quot;&quot;}"><img typeof="foaf:Image" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/styles/medium/public/RAM_6827.jpg?itok=YEuJXtQa" width="220" height="220" alt="" title="" /></a>
+<a href="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/RAM_6827.jpg" title="" class="colorbox" data-colorbox-gallery="gallery-node-23-field_picture_of_food-MQjoKWXVOgY" data-cbox-img-attrs="{&quot;title&quot;: &quot;&quot;, &quot;alt&quot;: &quot;&quot;}"><img typeof="foaf:Image" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/styles/medium/public/RAM_6827.jpg%itok=YEuJXtQa" width="220" height="220" alt="" title="" /></a>
 </div>
 </div>
 <div class="menu-item-desc">
@@ -605,7 +605,7 @@ The Athena
 </div>
 <div class="menu-image">
 <div class="views-field-field-picture-of-food">
-<a href="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/RAM_6866.jpg" title="" class="colorbox" data-colorbox-gallery="gallery-node-22-field_picture_of_food-MQjoKWXVOgY" data-cbox-img-attrs="{&quot;title&quot;: &quot;&quot;, &quot;alt&quot;: &quot;&quot;}"><img typeof="foaf:Image" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/styles/medium/public/RAM_6866.jpg?itok=lTEW-F9Z" width="220" height="220" alt="" title="" /></a>
+<a href="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/RAM_6866.jpg" title="" class="colorbox" data-colorbox-gallery="gallery-node-22-field_picture_of_food-MQjoKWXVOgY" data-cbox-img-attrs="{&quot;title&quot;: &quot;&quot;, &quot;alt&quot;: &quot;&quot;}"><img typeof="foaf:Image" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/styles/medium/public/RAM_6866.jpg%itok=lTEW-F9Z" width="220" height="220" alt="" title="" /></a>
 </div>
 </div>
 <div class="menu-item-desc">
@@ -630,7 +630,7 @@ The Cheese Louise
 </div>
 <div class="menu-image">
 <div class="views-field-field-picture-of-food">
-<a href="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/RAM_6808.jpg" title="" class="colorbox" data-colorbox-gallery="gallery-node-19-field_picture_of_food-MQjoKWXVOgY" data-cbox-img-attrs="{&quot;title&quot;: &quot;&quot;, &quot;alt&quot;: &quot;&quot;}"><img typeof="foaf:Image" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/styles/medium/public/RAM_6808.jpg?itok=nuRCBO3C" width="220" height="220" alt="" title="" /></a>
+<a href="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/RAM_6808.jpg" title="" class="colorbox" data-colorbox-gallery="gallery-node-19-field_picture_of_food-MQjoKWXVOgY" data-cbox-img-attrs="{&quot;title&quot;: &quot;&quot;, &quot;alt&quot;: &quot;&quot;}"><img typeof="foaf:Image" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/styles/medium/public/RAM_6808.jpg%itok=nuRCBO3C" width="220" height="220" alt="" title="" /></a>
 </div>
 </div>
 <div class="menu-item-desc">
@@ -655,7 +655,7 @@ The Pesto Pabo
 </div>
 <div class="menu-image">
 <div class="views-field-field-picture-of-food">
-<a href="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/RAM_6773.jpg" title="" class="colorbox" data-colorbox-gallery="gallery-node-18-field_picture_of_food-MQjoKWXVOgY" data-cbox-img-attrs="{&quot;title&quot;: &quot;&quot;, &quot;alt&quot;: &quot;&quot;}"><img typeof="foaf:Image" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/styles/medium/public/RAM_6773.jpg?itok=TUk3GTKk" width="220" height="220" alt="" title="" /></a>
+<a href="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/RAM_6773.jpg" title="" class="colorbox" data-colorbox-gallery="gallery-node-18-field_picture_of_food-MQjoKWXVOgY" data-cbox-img-attrs="{&quot;title&quot;: &quot;&quot;, &quot;alt&quot;: &quot;&quot;}"><img typeof="foaf:Image" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/styles/medium/public/RAM_6773.jpg%itok=TUk3GTKk" width="220" height="220" alt="" title="" /></a>
 </div>
 </div>
 <div class="menu-item-desc">
@@ -728,7 +728,7 @@ The Brown and White
 </div>
 <div class="menu-image">
 <div class="views-field-field-picture-of-food">
-<a href="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/TheMiji.jpg" title="" class="colorbox" data-colorbox-gallery="gallery-node-25-field_picture_of_food-MQjoKWXVOgY" data-cbox-img-attrs="{&quot;title&quot;: &quot;&quot;, &quot;alt&quot;: &quot;&quot;}"><img typeof="foaf:Image" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/styles/medium/public/TheMiji.jpg?itok=qODSedl3" width="220" height="220" alt="" title="" /></a>
+<a href="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/TheMiji.jpg" title="" class="colorbox" data-colorbox-gallery="gallery-node-25-field_picture_of_food-MQjoKWXVOgY" data-cbox-img-attrs="{&quot;title&quot;: &quot;&quot;, &quot;alt&quot;: &quot;&quot;}"><img typeof="foaf:Image" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/styles/medium/public/TheMiji.jpg%itok=qODSedl3" width="220" height="220" alt="" title="" /></a>
 </div>
 </div>
 <div class="menu-item-desc">
@@ -753,7 +753,7 @@ The Miji
 </div>
 <div class="menu-image">
 <div class="views-field-field-picture-of-food">
-<a href="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/RAM_6848.jpg" title="" class="colorbox" data-colorbox-gallery="gallery-node-21-field_picture_of_food-MQjoKWXVOgY" data-cbox-img-attrs="{&quot;title&quot;: &quot;&quot;, &quot;alt&quot;: &quot;&quot;}"><img typeof="foaf:Image" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/styles/medium/public/RAM_6848.jpg?itok=pY2cQr05" width="220" height="220" alt="" title="" /></a>
+<a href="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/RAM_6848.jpg" title="" class="colorbox" data-colorbox-gallery="gallery-node-21-field_picture_of_food-MQjoKWXVOgY" data-cbox-img-attrs="{&quot;title&quot;: &quot;&quot;, &quot;alt&quot;: &quot;&quot;}"><img typeof="foaf:Image" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/styles/medium/public/RAM_6848.jpg%itok=pY2cQr05" width="220" height="220" alt="" title="" /></a>
 </div>
 </div>
 <div class="menu-item-desc">
@@ -801,7 +801,7 @@ The Pulled Porker
 </div>
 <div class="menu-image">
 <div class="views-field-field-picture-of-food">
-<a href="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/RAM_6819_0.jpg" title="" class="colorbox" data-colorbox-gallery="gallery-node-11-field_picture_of_food-MQjoKWXVOgY" data-cbox-img-attrs="{&quot;title&quot;: &quot;&quot;, &quot;alt&quot;: &quot;&quot;}"><img typeof="foaf:Image" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/styles/medium/public/RAM_6819_0.jpg?itok=ZQpIR6R0" width="220" height="220" alt="" title="" /></a>
+<a href="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/RAM_6819_0.jpg" title="" class="colorbox" data-colorbox-gallery="gallery-node-11-field_picture_of_food-MQjoKWXVOgY" data-cbox-img-attrs="{&quot;title&quot;: &quot;&quot;, &quot;alt&quot;: &quot;&quot;}"><img typeof="foaf:Image" src="https://fudtruk.lehigh.edu/sites/fudtruk.lehigh.edu/files/styles/medium/public/RAM_6819_0.jpg%itok=ZQpIR6R0" width="220" height="220" alt="" title="" /></a>
 </div>
 </div>
 <div class="menu-item-desc">
